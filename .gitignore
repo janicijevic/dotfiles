@@ -1,0 +1,28 @@
+# Ignore everything
+/*
+ 
+!.gitignore
+
+# Include bash config
+!.bashrc
+
+# Include Xorg startup config
+!.xinitrc
+
+# Include .config
+!.config
+.config/*
+!.config/awesome
+
+
+#/*
+
+#!/.bashrc
+#!/.xinitrc
+
+#!/.config
+#/.config/*
+#!/.config/awesome
+#/.config/awesome/*a
+
+
